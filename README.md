@@ -1,6 +1,6 @@
 # Yelp Reviews Analysis & Recommendation System 🍔
 
-## OpenClassrooms Project 4: Content-Based Recommendation Engine
+## Project: Content-Based Recommendation Engine
 
 ### 📋 Project Overview
 This project implements a hybrid recommendation system using Yelp reviews data. It combines collaborative filtering with content-based approaches, leveraging NLP techniques to analyze review text and build personalized restaurant recommendations.
@@ -210,8 +210,5 @@ GET /trending
 - A/B testing results
 - Performance benchmarks
 
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
-
 ---
-*Note: This educational project demonstrates production-ready recommendation system techniques applicable to any content platform. The hybrid approach ensures both personalization and content quality.*
+*Note: This project demonstrates production-ready recommendation system techniques applicable to any content platform. The hybrid approach ensures both personalization and content quality.*
